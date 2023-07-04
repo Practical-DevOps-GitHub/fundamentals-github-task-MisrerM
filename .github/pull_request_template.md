@@ -1,15 +1,9 @@
-**Опишіть ваші зміни:**
+Describe your changes.
+Issue ticket number and link.
+Checklist before requesting a review:
+- I have performed a self-review of my code.
+- If it is a core feature, I have added thorough tests.
+- Do we need to implement analytics?
+- Will this be part of a product update? If yes, please write one phrase about this update.
 
-[Додайте опис вашого пул-запиту тут]
-
-**Номер та посилання на проблему (issue ticket):**
-
-[Вкажіть номер і посилання на відповідну проблему (issue), яку ви вирішуєте цим пул-запитом]
-
-**Чек-лист перед запитом на перегляд:**
-
-- [ ] Я провів самоперегляд свого коду.
-- [ ] Якщо це основна функція, я додав вичерпні тести.
-- [ ] Чи потрібно нам реалізувати аналітику?
-- [ ] Чи це буде частиною оновлення продукту? Якщо так, будь ласка, напишіть одне речення про це оновлення.
 
